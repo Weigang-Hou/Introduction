@@ -1,2 +1,2 @@
-# Carrier Low-GWP Refrigerant Project
-This is an introduction of Weigang Hou
+# Carrier Low-GWP Refrigerants Project
+This is an introduction of Carrier low-GWP refrigerants project
